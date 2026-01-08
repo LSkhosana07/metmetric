@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+.slider-image {
+  width: 450px;
+  height: 320px;
+  object-fit: cover;
+}
+
+@media (max-width: 500px) {
+  .slider-image {
+    width: 320px;
+    height: 240px;
+  }
+}
+
+
