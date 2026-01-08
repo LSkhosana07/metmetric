@@ -23,7 +23,7 @@ import HPH from '../assets/HPH.svg';
 import BPH from '../assets/BPH.svg';
 import Irene from '../assets/Irene.svg';
 import Grove from '../assets/Grove.svg';
-import Block1 from '../Assets/Block 1.svg';
+// import Block1 from '../Assets/Block 1.svg';
 import Block2 from '../Assets/Block 2.svg';
 import Block3 from '../Assets/Block 3.svg';
 import Tech from '../Assets/Group 133720.svg';
@@ -103,7 +103,7 @@ export const services = [
       title: 'Utility Specialists',
       description: 'By implementing our smart technologies, businesses can monitor usage patterns and reduce waste, leading to cost savings and environmental benefits.',
       icon: Kwh,
-      background: Block1,
+      // background: Block1,
       link: '/utilities'
     },
     {
