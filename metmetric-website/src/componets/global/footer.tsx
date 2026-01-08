@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from "../../assets/Logo.svg";
-import Facebook from "../../assets/facebook.svg";
+// import Facebook from "../../assets/Facebook.svg";
 import  LinkedIn  from "../../assets/LinkedIn.svg";
 import WhatsApp from "../../assets/WhatsApp.svg";
 
@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
               className="w-9 h-9 rounded flex items-center justify-center transition-colors"
               aria-label="Facebook"
             >
-              <img className="w-8 h-8" src={Facebook} alt="Facebook" />
+              {/* <img className="w-8 h-8" src={Facebook} alt="Facebook" /> */}
             </a>
             <a 
               href="#linkedin" 
